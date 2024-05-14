@@ -15,9 +15,10 @@
 <br/>  
 
 
-<table><tr><td valign="top" width="50%">
+<div align="center">
 
  
+<div align="left" width="30%">
 <pre>
 Hi! My name is Vlad, I am 19 years old. 
 At the moment I'm studying for Fullstack 
@@ -33,14 +34,13 @@ I will be glad to cooperate with you! 😁
   
 
 - 🐉 I'm learning Chinese  
+</div>
 
 
-</td><td valign="top" width="50%">
 
-<img src="https://github.com/blackonechik/blackonechik/blob/main/chillgif.gif?raw=true" align="left" height="500" width="280" />  
+<img src="https://github.com/blackonechik/blackonechik/blob/main/chillgif.gif?raw=true" width="70%" align="right"/>  
 
-
-</td></tr></table>  
+</div>
 
 <br/>  
 
