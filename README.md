@@ -4,10 +4,10 @@
 <a href="https://github.com/blackonechik" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@blackonechik" target="_blank">
+<a href="https://www.youtube.com/@blackonechik" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/tehnomaniak07" target="_blank">
+<a href="https://t.me/blackonechik" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="telegram"  />
   </a>
   
