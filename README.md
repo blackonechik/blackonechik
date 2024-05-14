@@ -18,7 +18,13 @@
 <table><tr><td valign="top" width="50%">
 
  
-<pre>Hi! My name is Vlad, I am 19 years old. At the moment I'm studying for Fullstack developer. I live on the Black Sea coast, I like to play guitar and listen to music. I will be glad to cooperate with you! 😁  </pre>
+<pre>
+Hi! My name is Vlad, I am 19 years old. 
+At the moment I'm studying for Fullstack 
+developer. I live on the Black Sea coast, 
+I like to play guitar and listen to music. 
+I will be glad to cooperate with you! 😁  
+</pre>
 
 ## Interesting Facts
   
