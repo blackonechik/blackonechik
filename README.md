@@ -6,7 +6,10 @@
 </a>
 <a href="https://www.youtube.com/user/https://www.youtube.com/@blackonechik" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://t.me/tehnomaniak07" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" style="margin-bottom: 5px;" alt="telegram"  />
+  </a>
   
 
 <br/>  
@@ -14,16 +17,16 @@
 
 <table><tr><td valign="top" width="50%">
 
+ 
+<pre>Hi! My name is Vlad, I am 19 years old. At the moment I'm studying for Fullstack developer. I live on the Black Sea coast, I like to play guitar and listen to music. I will be glad to cooperate with you! 😁  </pre>
 
-
-### Glad to see you here!  
-Hi! My name is Vlad, I am 19 years old. At the moment I'm studying for Fullstack developer. I live on the Black Sea coast, I like to play guitar and listen to music. I will be glad to cooperate with you! 😁  
+## Interesting Facts
   
 
 - 🌱 I’m currently taking a course from Skillbox in the direction of "Fullstack developer".  
   
 
-- 🐉 Fun fact: I'm learning Chinese  
+- 🐉 I'm learning Chinese  
 
 
 </td><td valign="top" width="50%">
@@ -65,27 +68,18 @@ Hi! My name is Vlad, I am 19 years old. At the moment I'm studying for Fullstack
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=blackonechik&show_icons=true&count_private=true&hide_border=true" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=blackonechik&show_icons=true&count_private=true&hide_border=true&theme=ayu-mirage" align="left" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackonechik&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackonechik&hide_border=true&layout=compact&theme=ayu-mirage" align="left" style="width: 90%" />
 </td></tr></table>  
-
 <br/>  
-
-  
-
-<br/>  
+<br/> 
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=blackonechik&&style=flat-square)  
   
 
 <br/>  
 
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
