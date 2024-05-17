@@ -21,7 +21,7 @@
 
  
 <div align="left" width="30%">
-<img src="https://github.com/blackonechik/blackonechik/blob/main/chillgif.gif?raw=true" width="40%" align="right"/>  
+<img src="https://github.com/blackonechik/blackonechik/blob/main/chillgif.gif?raw=true" width="200px" align="right"/>  
 <pre style="width: 300px">
 Hi! My name is Vlad, I am 19 years old. At the moment I'm studying for Fullstack developer. 
 I live on the Black Sea coast, I like to play guitar and listen to music. I will be glad
