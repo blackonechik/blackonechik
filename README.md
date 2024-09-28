@@ -23,15 +23,12 @@
 <div align="left" width="30%">
 <img src="https://github.com/blackonechik/blackonechik/blob/main/chillgif.gif?raw=true" width="200px" align="right"/>  
 <pre style="width: 300px">
-Hi! My name is Vlad, I am 19 years old. At the moment I'm studying for Fullstack developer. 
+Hi! My name is Vlad. I'm  Fullstack developer. 
 I live on the Black Sea coast, I like to play guitar and listen to music. I will be glad
  to cooperate with you! 😁  
 </pre>
 
 ## Interesting Facts
-
-- 🌱 I’m currently taking a course from Skillbox in the direction of "Fullstack developer".  
-  
 
 - 🐉 I'm learning Chinese  
 </div>
