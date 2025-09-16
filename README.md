@@ -21,7 +21,6 @@
 
  
 <div align="left" width="30%">
-<img src="https://github.com/blackonechik/blackonechik/blob/main/chillgif.gif?raw=true" width="200px" align="right"/>  
 <pre style="width: 300px">
 Hi! My name is Vlad. I'm  Fullstack developer. 
 I live on the Black Sea coast, I like to play guitar and listen to music. I will be glad
